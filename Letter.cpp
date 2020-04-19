@@ -5,7 +5,7 @@ int main() {
   cout<<"What's your name: ";
   string first_name;
   cin>>first_name;
-  cout<<"Dear " <<first_name <<","; 
+  cout<<"Dear " << first_name <<","; 
   cout<<"\n   How are you? I'm fine, I miss you. I wanted to write to you to talk to you about something. Trust me, it's pretty important.";
 
   cout<<"\nWhat's your friend's name (can be imaginary if you don't have one): ";
